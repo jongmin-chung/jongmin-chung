@@ -7,7 +7,7 @@
 ```
 
 
-<h3 align="center"> ✏️ Contact ✏️ </h3>
+<h3 align="center">  Contact  </h3>
 <p align="center">
   <a href="mailto:chungjm@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chungjm0711@gmail.com"/>
@@ -33,10 +33,13 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 </p>
 
+<div align=center>
+  ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=chungjm&show_icons=true&count_private=true&line_height=20&theme=dracula)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungjm&layout=compact&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=chungjm&show_icons=true&count_private=true&line_height=20&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungjm&layout=compact&theme=dracula)
-
+</div>
+  
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchungjm&count_bg=%23D3A1FF&title_bg=%2331006E&icon=github.svg&icon_color=%23FFFEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
