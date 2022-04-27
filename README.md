@@ -37,7 +37,7 @@
 </p>
 
 <div align=center>
-  ![chungjm's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=chungjm&show_icons=true&count_private=true&line_height=20&theme=dracula)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chungjm)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungjm&layout=compact&theme=dracula)
 
