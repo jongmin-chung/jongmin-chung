@@ -1,7 +1,4 @@
-```diff
-📌 I'm banckend-developer
-📌 Java/Spring/JPA
-```
+## chungjm (backend-developer)
 
 <h3 align="center">  Contact  </h3>
 <p align="center">
@@ -22,7 +19,6 @@
   <img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/H2-5a5a5a?style=flat-square"/></a>&nbsp   
 </p>
-
 
 <h3 align="center"> 🛠 Tools  🛠 </h3> 
 
