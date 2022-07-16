@@ -39,7 +39,7 @@
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjmjamesdev&count_bg=%23D3A1FF&title_bg=%2331006E&icon=github.svg&icon_color=%23FFFEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://github.com/jmjmjames"><img src="https://img.shields.io/github/followers/jongmin-dev?logoColor=%5C&style=social"/> </a> 
+<a href="https://github.com/jmjmjames"><img src="https://img.shields.io/github/followers/jmjmjames?logoColor=%5C&style=social"/> </a> 
   
 </div>
 
