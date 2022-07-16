@@ -31,15 +31,15 @@
 
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jongmin-dev&show_icons=true&count_private=true&line_height=20&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jmjmjames&show_icons=true&count_private=true&line_height=20&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongmin-dev&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjmjames&layout=compact&theme=dracula)
 </div>
   
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongmin-dev&count_bg=%23D3A1FF&title_bg=%2331006E&icon=github.svg&icon_color=%23FFFEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://github.com/jongmin-dev"><img src="https://img.shields.io/github/followers/jongmin-dev?logoColor=%5C&style=social"/> </a> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjmjamesdev&count_bg=%23D3A1FF&title_bg=%2331006E&icon=github.svg&icon_color=%23FFFEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://github.com/jmjmjames"><img src="https://img.shields.io/github/followers/jongmin-dev?logoColor=%5C&style=social"/> </a> 
   
 </div>
 
