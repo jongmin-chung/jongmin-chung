@@ -1,5 +1,6 @@
-### <div align="center">I'm JongminChung, backend developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
+## <div align="center">I'm JongminChung, backend developer👨‍💻 </div>  
+
+---
 
 - 🌱 I’m currently learning Spring and Kubernetes  
   
